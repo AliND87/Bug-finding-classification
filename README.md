@@ -12,8 +12,8 @@ Bag of Words to embed train set into vector
 
  <figure>
  <center>
- <img src='https://i.postimg.cc/gj0NHJzg/dt-bug.png' width="500" 
-      height="300"/>
+ <img src='https://i.postimg.cc/gj0NHJzg/dt-bug.png' width="300" 
+      height="150"/>
  <figcaption>DT training results</figcaption>
  </center>
  </figure>
